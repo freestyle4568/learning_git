@@ -1,3 +1,3 @@
 Today i create my first git repository in my life
 i love git very much because it's very convenience
-my favourite os is linux
+hello, my favourite os is linux
