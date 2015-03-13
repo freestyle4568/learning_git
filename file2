@@ -1,2 +1,3 @@
 hello world
+git checkout -b newdev origin/dev
 i am master
